@@ -1,0 +1,8 @@
+  applications:
+  - path: .
+    buildpack: php_buildpack
+    memory: 128M
+    random-route: true
+    instances: 1
+    name: smartmeter
+    disk_quota: 1024M
