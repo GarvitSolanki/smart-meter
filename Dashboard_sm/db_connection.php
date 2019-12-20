@@ -4,7 +4,7 @@ function OpenCon()
  {
  $dbhost = "localhost";
  $dbuser = "root";
- $dbpass = "mngv999";
+ $dbpass = "";
  $db = "smart_meter";
  
 
